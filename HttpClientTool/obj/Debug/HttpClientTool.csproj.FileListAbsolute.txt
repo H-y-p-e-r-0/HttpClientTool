@@ -1,0 +1,10 @@
+C:\Users\isims\Desktop\Projeler\public\httpClientTool\HttpClientTool\bin\Debug\HttpClientTool.exe.config
+C:\Users\isims\Desktop\Projeler\public\httpClientTool\HttpClientTool\bin\Debug\HttpClientTool.exe
+C:\Users\isims\Desktop\Projeler\public\httpClientTool\HttpClientTool\bin\Debug\HttpClientTool.pdb
+C:\Users\isims\Desktop\Projeler\public\httpClientTool\HttpClientTool\obj\Debug\HttpClientTool.csproj.AssemblyReference.cache
+C:\Users\isims\Desktop\Projeler\public\httpClientTool\HttpClientTool\obj\Debug\HttpClientTool.Form1.resources
+C:\Users\isims\Desktop\Projeler\public\httpClientTool\HttpClientTool\obj\Debug\HttpClientTool.Properties.Resources.resources
+C:\Users\isims\Desktop\Projeler\public\httpClientTool\HttpClientTool\obj\Debug\HttpClientTool.csproj.GenerateResource.cache
+C:\Users\isims\Desktop\Projeler\public\httpClientTool\HttpClientTool\obj\Debug\HttpClientTool.csproj.CoreCompileInputs.cache
+C:\Users\isims\Desktop\Projeler\public\httpClientTool\HttpClientTool\obj\Debug\HttpClientTool.exe
+C:\Users\isims\Desktop\Projeler\public\httpClientTool\HttpClientTool\obj\Debug\HttpClientTool.pdb
